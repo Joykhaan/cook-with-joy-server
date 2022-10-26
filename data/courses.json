@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Biryani"
+    },
+    {
+        "id":2,
+        "name": "Nooddles"
+    },
+    {
+        "id":3,
+        "name": "Pulao"
+    },
+    {
+        "id":4,
+        "name": "Beef"
+    },
+    {
+        "id":5,
+        "name": "Chicken Curry"
+    },
+    {
+        "id":6,
+        "name": "Chicken Fry"
+    },
+    {
+        "id":7,
+        "name": "Fish Fry"
+    },
+    {
+        "id":8,
+        "name": "Fish Curry"
+    },
+    {
+        "id":9,
+        "name": "Cake"
+    }
+]
