@@ -9,42 +9,131 @@
     },
     {
         "_id":"002",
-        "id":"2",
+        "id":"1",
         "view":"1000",
-        "title":"Kacchi Biryani",
-        "image":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "title":"Beef Biriyani",
+        "image":"https://dwellbymichelle.com/wp-content/uploads/2021/03/DWELL-Malabar-Beef-biriyani-.jpeg",
         "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
     },
     {
         "_id":"003",
-        "id":"3",
+        "id":"1",
         "view":"1000",
-        "title":"Kacchi Biryani",
-        "image":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "title":"Chicken Biryani",
+        "image":"https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani.jpg",
         "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
     },
     {
         "_id":"004",
-        "id":"4",
+        "id":"1",
         "view":"1000",
-        "title":"Kacchi Biryani",
-        "image":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "title":"Dum biriyani",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehr1_gvzJjbwjMPrzElX0qxoyr1UjMEWbPg&usqp=CAU",
         "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
     },
     {
         "_id":"005",
-        "id":"1",
+        "id":"2",
         "view":"1000",
-        "title":"Kacchi Biryani",
-        "image":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "title":"Chaomin Noodles",
+        "image":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chow-Mein_1.jpg",
         "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
     },
     {
         "_id":"006",
-        "id":"1",
+        "id":"2",
         "view":"1000",
-        "title":"Kacchi Biryani",
-        "image":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "title":"Chicken Noodles",
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2018/03/Chicken-Hakka-Noodles-2-1.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"007",
+        "id":"2",
+        "view":"1000",
+        "title":"Egg Noodles",
+        "image":"https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Noodles-with-chilli-oil-eggs-6ec34e9.jpg?quality=90&webp=true&resize=375,341",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"008",
+        "id":"3",
+        "view":"1000",
+        "title":"Kabuli pulao",
+        "image":"https://niftyfoodz.com/cdn/recipes/kabuli-pulao.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"009",
+        "id":"3",
+        "view":"1000",
+        "title":"Murog pulao",
+        "image":"https://www.deshcatering.com/wp-content/uploads/2020/06/morog-polao-home-corporate-desh-catering-dhaka.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"010",
+        "id":"4",
+        "view":"1000",
+        "title":"Kala vuna",
+        "image":"https://img-global.cpcdn.com/recipes/2cca2e5dd84f3d3c/640x640sq70/photo.webp",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"011",
+        "id":"4",
+        "view":"1000",
+        "title":"Mejbani beef",
+        "image":"https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/07/20/image.png?itok=cVDS_loD&timestamp=1626777295",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"012",
+        "id":"5",
+        "view":"1000",
+        "title":"Mejbani beef",
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2022/03/Bihari-Chicken-Curry-2-1.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"013",
+        "id":"6",
+        "view":"1000",
+        "title":"KFC chicken",
+        "image":"https://www.eatthis.com/wp-content/uploads/sites/4//media/images/ext/966368714/kfc-original-chicken-recipe.jpg?quality=82&strip=1&w=800",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"014",
+        "id":"7",
+        "view":"1000",
+        "title":"Fish fry",
+        "image":"https://i0.wp.com/hattyfoods.com/wp-content/uploads/2021/04/Restaurant-style-fish-fry-recipe.jpg?resize=1220%2C600&ssl=1",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"015",
+        "id":"8",
+        "view":"1000",
+        "title":"Fish curry",
+        "image":"https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"016",
+        "id":"9",
+        "view":"1000",
+        "title":"Choclate cake",
+        "image":"https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg",
+        "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
+    },
+    {
+        "_id":"017",
+        "id":"9",
+        "view":"1000",
+        "title":"Fish curry",
+        "image":"https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg",
         "details":"Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt. This marinated meat sits on the bottom of the pot topped with half-cooked rice which is drizzled with saffron-infused water and more fried onions and fresh mint leaves. Sealed and slow-cooked in an oven or on stove-top to a delicious aromatic finger-licking biryani that you may serve with some kachumber, salad, and if you are like us, more pappadoms!"
     }
+    
 ]
